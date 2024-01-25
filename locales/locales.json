@@ -1,0 +1,35 @@
+{
+    "locales": [
+      {
+        "nombre": "Local1",
+        "direccion": "Calle A, 123",
+        "localidad": "maldonado",
+        "telefono": "123-456-7890",
+        "tipo": "Comida Rápida"
+      },
+      {
+        "nombre": "Local 2",
+        "direccion": "Calle B, 456",
+        "localidad": "Localidad 2",
+        "telefono": "987-654-3210",
+        "tipo": "Restaurante Casual",
+        "link": "/index.html"
+      },
+      {
+        "nombre": "Local 3",
+        "direccion": "Calle C, 789",
+        "localidad": "Maldonado",
+        "telefono": "555-123-4567",
+        "tipo": "Pizzería"
+      },
+      {
+        "nombre": "Local 4",
+        "direccion": "Calle D, 012",
+        "localidad": "maldonado",
+        "telefono": "888-999-0000",
+        "tipo": "Cafetería"
+      }
+    
+    ]
+  }
+  
